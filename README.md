@@ -24,8 +24,6 @@ Runs Batted In are also important predictors of induction.
 And in the outfield, run production was one of the most important factors which predicts induction.  Outfielders who
 scored more Runs and produced more Runs Batted In are more likely to have been inducted.
 
-![Hall of Fame Status](./HoF-batters.png)
-
 ##  Modelling Hall of Famers
 
 To identify the features associated with a player's odds of having been inducted, we estimated logistic a set of
