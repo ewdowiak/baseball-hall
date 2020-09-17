@@ -13,8 +13,6 @@ America, but not every player gets a vote.  Among those who do, few receive enou
 
 In the Lahman Database, we identified 2258 eligible players who retired after 1945.  Of those, only 120 have been inducted.
 
-![Hall of Fame Status](./HoF-counts.png)
-
 On the mound, a low Earned Run Average and lots of Strikeouts and Wins make a Pitcher more likely to have been inducted into
 the Baseball Hall of Fame.  Behind the plate, Catchers who made more PutOuts and Catch Stealing more base runners are more
 likely to have been inducted.
