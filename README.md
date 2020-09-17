@@ -42,3 +42,6 @@ Because only five percent of eligible players have been inducted, our first step
 oversample the inducted players with SMOTE, so that our training data would consist of a one (synthetic) inducted
 player for every eight non-inducted players.
 
+##  Powerpoint Slides
+
+https://docs.google.com/presentation/d/13Gnsu-9SvZcb8EUmxB_qbz3dVeUPHlr3oqji6ug5qR0/edit?usp=sharing
