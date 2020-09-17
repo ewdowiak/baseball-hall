@@ -39,7 +39,3 @@ into training and test sets so that we could train a classifier that predicts in
 Because only five percent of eligible players have been inducted, our first step in predicting induction was to
 oversample the inducted players with SMOTE, so that our training data would consist of a one (synthetic) inducted
 player for every eight non-inducted players.
-
-##  Powerpoint Slides
-
-https://docs.google.com/presentation/d/13Gnsu-9SvZcb8EUmxB_qbz3dVeUPHlr3oqji6ug5qR0/edit?usp=sharing
